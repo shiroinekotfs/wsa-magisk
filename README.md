@@ -12,16 +12,16 @@
 ## Credit
 
 > [**MustardChef**](https://github.com/MustardChef)
-> WSA with Magisk is built using this repository. Consider to press `F` to pay respect.
+> WSA with Magisk is built using this repository. Consider pressing `F` to pay respect.
 
 > [**Microsoft**](https://apps.microsoft.com/store/detail/windows-subsystem-for-android%E2%84%A2-with-amazon-appstore/9P3395VX91NR)
 > Windows Subsystem For Android™, Windows Subsystem For Android™ Logo, Windows™ 10 and Windows™ 11 Logos are trademarks of Microsoft Corporation. Microsoft Corporation reserves all rights to these trademarks. By downloading and installing Windows Subsystem For Android™, you agree to the [Terms and Conditions](https://support.microsoft.com/en-gb/windows/microsoft-software-license-terms-microsoft-windows-subsystem-for-android-cf8dfb03-ba62-4daa-b7f3-e2cb18f968ad) and [Privacy Policy](https://privacy.microsoft.com/en-gb/privacystatement)
 
 > [**YT-Advanced**](https://github.com/YT-Advanced/WSA-Script)
-> For providing and continuing the development of the script made by LSPosed, the Github Action workflow guide is based on his Github Repo.
+> For providing and continuing the development of the script made by LSPosed, the GitHub Action workflow guide is based on his Github Repo.
 
 > [**Cinit and the WSAPatch Guide**](https://github.com/cinit/WSAPatch)
-> Many thanks for the comprehensive guide, files and support provided by Cinit and the contributers at the WSAPatch repository. Windows™ 10 Builds in this repo rely on the hard work of this project and  hence credit is given where due
+> Many thanks for the comprehensive guide, files, and support provided by Cinit and the contributors at the WSAPatch repository. Windows™ 10 Builds in this repo rely on the hard work of this project and  hence credit is given where due
 
 > [**StoreLib**](https://github.com/StoreDev/StoreLib)
 > API for downloading WSA
@@ -33,7 +33,7 @@
 > Script the automatic generation of up-to-date Google Apps packages
 
 > [**KernelSU**](https://github.com/tiann/KernelSU)
-> A Kernel based root solution for Android
+> A Kernel-based root solution for Android
 
 > [**WSAGAScript**](https://github.com/ADeltaX/WSAGAScript)
 > The first GApps integration script for WSA
@@ -55,13 +55,13 @@
 
 ### Maintaining WSA
 
-- Installing & Uninstall
-- Update
-- Backup & Restore
+- [Installing & Uninstall](https://github.com/takineko-tfs/wsa-magisk/blob/main/guides/Install-Uninstall.md)
+- [Update](https://github.com/takineko-tfs/wsa-magisk/blob/main/guides/Update.md)
+- [Backup & Restore](https://github.com/takineko-tfs/wsa-magisk/blob/main/guides/Backup-Restore.md)
 
 ### Troubleshoting & Restoration
 
-#### See all at [here]()
+#### See all at [here](https://github.com/takineko-tfs/wsa-magisk/tree/main/guides/mustardchef)
 
 ## System requirements
 
@@ -93,7 +93,7 @@
     <td><h4>GPU<h4></td>
       <td colspan="2">
         Compatible with GPUs.
-        Note that some of NVIDIA driver may cause graphic problem with some WSA apps.
+        Note that some of the NVIDIA drivers may cause graphic problems with some WSA apps.
       </td>
   </tr>
   <tr>
