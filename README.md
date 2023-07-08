@@ -1,7 +1,11 @@
-# WSA with [Magisk](https://magiskmanager.com/)
+# WSA with [Magisk](https://magiskmanager.com/) - Stable version (archived)
 
+> **Warning repo size:** 6.54 GB. Consider freeing your space first
+> 
+> If you're looking for building your own WSA, see [here](https://github.com/takineko-tfs/wsa-magisk-build)
+> 
 > ## :warning:
-> **Discalmer:**
+> **Disclaimer:**
 >
 > - [WSA *(by default)*](https://learn.microsoft.com/en-us/windows/android/wsa/)  is unstable, as well as this build. Consider to backup all of your files.
 > - We would recommend you to enroll into [*Insider Program (Preview Release)*](https://www.microsoft.com/en-us/windowsinsider/) for the best accessbility on WSA.
