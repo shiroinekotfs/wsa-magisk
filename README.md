@@ -1,6 +1,6 @@
 # WSA with [Magisk](https://magiskmanager.com/) - Stable version (archived)
 
-> **Warning repo size:** 6.54 GB. Consider freeing your space first
+> **Warning repo size:** 5.49 GB. Consider freeing your space first
 > 
 > If you're looking for building your own WSA, see [here](https://github.com/takineko-tfs/wsa-magisk-build)
 > 
