@@ -41,7 +41,6 @@ Images
 Microsoft.UI.Xaml.winmd
 classicAppInstaller_WSA.sccd
 WSACodecs.dll
-Run.bat
 system_ext.vhdx
 lxutil.dll
 WsaSettings.winmd
