@@ -1,7 +1,8 @@
 # WSA with [Magisk](https://magiskmanager.com/)
 
 > ## :warning:
-> **Discalmer:**
+> **Warning repo size:** 6.54 GB. Consider to free your space first
+> **Disclaimer:**
 >
 > - [WSA *(by default)*](https://learn.microsoft.com/en-us/windows/android/wsa/)  is unstable, as well as this build. Consider to backup all of your files.
 > - We would recommend you to enroll into [*Insider Program (Preview Release)*](https://www.microsoft.com/en-us/windowsinsider/) for the best accessbility on WSA.
