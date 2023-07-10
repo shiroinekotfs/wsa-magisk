@@ -5,7 +5,7 @@
   "VpnInterfaces": [
     {
         "InterfaceType": 6,
-        "InterfaceDescription": "Cisco AnyConnect"
+        "InterfaceDescription": "Windows Subsystem for Android Network Adapter"
     }
   ]
 }
