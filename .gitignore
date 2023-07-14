@@ -168,3 +168,4 @@ appx-installs/xml/resources.scale-100.xml
 appx-installs/xml/resources.scale-125.xml
 appx-installs/xml/resources.scale-150.xml
 appx-installs/xml/resources.scale-400.xml
+*.pri
