@@ -82,13 +82,6 @@ ElseIf (($args.Count -Eq 1) -And ($args[0] -Eq "EVAL")) {
     exit
 }
 
-$FileList = Get-Content -Path .\filelist.txt
-If (((Test-Path -Path $FileList) -Eq $false).Count) {
-    Write-Error "Some files are missing in the folder. Please try to build again. Press any key to exit"
-    $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
-    exit 1
-}
-
 If (((Test-Path -Path "MakePri.ps1") -And (Test-Path -Path "makepri.exe")) -Eq $true) {
     $ProcMakePri = Start-Process $pwsh -PassThru -NoNewWindow -Args "-ExecutionPolicy Bypass -File MakePri.ps1" -WorkingDirectory $PSScriptRoot
     $null = $ProcMakePri.Handle
